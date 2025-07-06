@@ -44,10 +44,11 @@ a {
     word-spacing: 2px;
     text-align: center;
     margin-bottom: 10px;
+    font-weight: bold;
+    color: var(--primary);
 }
 
 header>span {
-
     text-transform: uppercase;
 }
 
