@@ -204,7 +204,7 @@ input[type='radio']:checked:after {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-        cursor: pointer;
+
 }
 
 .second-card h3 {
@@ -303,6 +303,7 @@ select {
     word-spacing: 2px;
     padding: 10px 0px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 .short-desc {
